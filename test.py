@@ -34,6 +34,3 @@ def calculate():
     except Exception as e:
         print(f"Ошибка: {e}")
         exit(1)
-
-if __name__ == "__main__":
-    calculate()
